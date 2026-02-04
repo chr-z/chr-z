@@ -1,37 +1,36 @@
-# Olá, sou o Christian! 👋
+> 🇧🇷 [Ler em Português](README.pt-br.md)
 
-### Engenheiro de Software | Fullstack & Data Science
+# Hello, I'm Christian! 👋
 
-Sou um Engenheiro de Software focado em **resolver problemas reais** através de código de alta performance. Minha abordagem combina a visão analítica de **Ciência de Dados** com a capacidade de construção de **Engenharia de Software**.
+### Software Engineer | Fullstack & Data Science
 
-Atualmente, busco desafios como **Desenvolvedor Fullstack/Backend** para criar ferramentas que geram eficiência e impacto.
+I am a Software Engineer focused on **solving real-world problems** through high-performance code. My approach combines the analytical mindset of **Data Science** with the build capacity of **Software Engineering**.
+
+Currently seeking my next challenge as a **Fullstack/Backend Developer** to build efficient and impactful tools.
 
 ---
 
-### 🚀 Case de Sucesso: Solaris
+### 🚀 Case Study: Solaris
 
-> **MVP em Produção** implementado na operação do setor de Análise de Qualidade Audiovisual da EdTech **Gran Concursos**.
+> **Strategic MVP** deployed in production at **Gran** (EdTech), automating the Audiovisual Quality Assurance sector.
 
-Desenvolvi uma plataforma de **Análise Audiovisual** que centraliza o fluxo de trabalho de transmissão e validação técnica de qualidade.
+I architected and developed a **"Single Pane of Glass"** platform that centralizes the technical validation workflow for media assets. The system replaced a fragmented workflow dependent on local players and manual spreadsheets with a unified, high-performance web hub.
 
-* **O Problema:** Workflow fragmentado, dependência de players locais e falta de instrumentação técnica padronizada.
-* **A Solução:** Um Hub web-based que integra gestão de tarefas (W.O.), streaming seguro e instrumentação técnica (DSP) em tempo real.
-
-#### 🛠️ Arquitetura & Engenharia
-O projeto utiliza uma arquitetura híbrida focada em performance de renderização e integridade de dados:
+#### 🛠️ Engineering & Architecture
+The project utilizes a hybrid architecture focused on rendering performance, data integrity, and secure streaming:
 
 * **🔬 Core DSP (Client-Side):**
-    * **Vídeo:** Processamento de pixel data via **Canvas API** otimizado com `willReadFrequently: true` para gerar Osciloscópios (RGB/Waveform) e Vetorscópios a 15fps sem drop de frames.
-    * **Áudio:** Decodificação progressiva de `AudioBuffer` utilizando **Web Audio API** e `requestAnimationFrame` para evitar bloqueio da Main Thread durante a geração de espectrogramas.
-    * **Cache Híbrido:** Sistema de persistência de análise (Waveform Data) distribuído entre **LocalStorage** (L1) e **Firebase** (L2) para evitar reprocessamento de assets pesados.
+    * **Video:** Implemented real-time pixel data processing using the **Canvas API** optimized with `willReadFrequently: true` to generate 60fps Oscilloscopes (RGB Parade, Waveform) and Vectorscopes directly in the browser.
+    * **Audio:** Engineered progressive `AudioBuffer` decoding using the **Web Audio API** and `requestAnimationFrame` to render Spectrograms without blocking the main thread.
+    * **Hybrid Caching:** Built a distributed persistence strategy for heavy analysis data (Waveforms), utilizing **LocalStorage** (L1) and **Firebase** (L2) to prevent redundant processing of assets.
 
 * **🌐 Middleware & Streaming (Vercel Serverless):**
-    * **Streaming Proxy:** Implementação manual de **Byte-Range Requests** (`HTTP 206 Partial Content`) em Node.js para permitir *seeking* eficiente em vídeos privados do Google Drive e YouTube, contornando restrições rígidas de CORS.
-    * **API Gateway:** Camada de abstração para a Google Sheets API com cache *server-side* (TTL) para reduzir latência e consumo de quota.
+    * **Streaming Proxy:** Developed a custom **Node.js** proxy to handle **Byte-Range Requests** (`HTTP 206`), enabling instant seeking for private video assets hosted on Google Drive and YouTube while bypassing strict CORS policies.
+    * **API Gateway:** Abstracted the Google Sheets API interaction via a serverless layer with server-side caching (TTL) to reduce latency and API quota consumption.
 
-* **⚡ Concorrência & Estado (Firebase):**
-    * **Lock Otimista:** Sistema de travamento de registros em tempo real via **Realtime Database** para impedir que múltiplos analistas editem a mesma Ordem de Serviço simultaneamente.
-    * **Presença:** Monitoramento de usuários online e cursores ativos.
+* **⚡ Concurrency & State (Firebase):**
+    * **Optimistic Locking:** Implemented a real-time locking mechanism via **Firebase Realtime Database** to prevent race conditions and data overrides when multiple analysts edit the same Work Order simultaneously.
+    * **Presence:** Real-time user monitoring and active cursor tracking.
 
 ---
 
@@ -51,7 +50,14 @@ O projeto utiliza uma arquitetura híbrida focada em performance de renderizaç�
 
 ---
 
-### 📫 Contato
+### 📊 GitHub Stats
+
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chr-z&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr-z&layout=compact&theme=dracula&hide_border=true)
+
+---
+
+### 📫 Contact
 
 * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianmaciel/)
 * 📧 **Email:** christian@chr-z.dev
