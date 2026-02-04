@@ -10,9 +10,9 @@ Atualmente, busco desafios como **Desenvolvedor Fullstack/Backend** para criar f
 
 ### 🚀 Case de Sucesso: Solaris
 
-> **Tech Lead Project** implementado na operação da EdTech **Gran**.
+> **Tech Lead Project** implementado na operação do setor de Análise de Qualidade Audiovisual da EdTech **Gran**.
 
-Desenvolvi uma plataforma de **Orquestração e Análise Audiovisual** que centraliza o fluxo de trabalho de transmissão e validação técnica. O sistema atua como um "Single Pane of Glass", eliminando a alternância entre ferramentas e planilhas.
+Desenvolvi uma plataforma de **Análise Audiovisual** que centraliza o fluxo de trabalho de transmissão e validação técnica de qualidade.
 
 * **O Problema:** Workflow fragmentado, dependência de players locais e falta de instrumentação técnica padronizada.
 * **A Solução:** Um Hub web-based que integra gestão de tarefas (W.O.), streaming seguro e instrumentação técnica (DSP) em tempo real.
@@ -51,13 +51,7 @@ O projeto utiliza uma arquitetura híbrida focada em performance de renderizaç�
 
 ---
 
-### 📊 GitHub Stats
-
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chr-z&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr-z&layout=compact&theme=dracula&hide_border=true)
-
----
-
 ### 📫 Contato
 
 * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianmaciel/)
+* 📧 **Email:** [christian@chr-z.dev]
