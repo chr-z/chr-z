@@ -10,7 +10,7 @@ Atualmente, busco desafios como **Desenvolvedor Fullstack/Backend** para criar f
 
 ### 🚀 Case de Sucesso: Solaris
 
-> **Tech Lead Project** implementado na operação do setor de Análise de Qualidade Audiovisual da EdTech **Gran**.
+> **MVP em Produção** implementado na operação do setor de Análise de Qualidade Audiovisual da EdTech **Gran Concursos**.
 
 Desenvolvi uma plataforma de **Análise Audiovisual** que centraliza o fluxo de trabalho de transmissão e validação técnica de qualidade.
 
