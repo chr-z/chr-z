@@ -50,13 +50,6 @@ O projeto utiliza uma arquitetura híbrida focada em performance de renderizaç�
 
 ---
 
-### 📊 GitHub Stats
-
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chr-z&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr-z&layout=compact&theme=dracula&hide_border=true)
-
----
-
 ### 📫 Contato
 
 * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianmaciel/)
