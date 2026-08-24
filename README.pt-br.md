@@ -63,6 +63,7 @@ porque range técnico é o ponto.
 | [Tably](https://chr-z.github.io/tably/) | Caixa offline p/ barraca e salão | TypeScript (sem framework) |
 | [SheetBound](https://chr-z.github.io/sheetbound/) | Fichas de RPG imprimíveis | Go (TinyGo → WASM) |
 | [UnitForge](https://chr-z.github.io/unitforge/) | Conversor de unidades offline — motor em C puro compilado para WebAssembly | C → WASM (zig cc) |
+| [NimNote](https://chr-z.github.io/nimnote/) | Notas locais com busca instantânea — motor de busca escrito em Nim, compilado pra JS | Nim → JavaScript (`nim js`) |
 
 Também open-source: [Rubethyst Snap](https://github.com/chr-z/rubethyst-snap) —
 motor de download yt-dlp/ffmpeg como biblioteca + FastAPI + Celery, progresso SSE,
