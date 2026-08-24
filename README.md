@@ -61,6 +61,7 @@ language/stack**, because range is the point.
 | [RaffleMint](https://chr-z.github.io/rafflemint/) | Transparent verifiable giveaways | Elm |
 | [Tably](https://chr-z.github.io/tably/) | Offline sales ledger for stalls & salons | TypeScript (no framework) |
 | [SheetBound](https://chr-z.github.io/sheetbound/) | Printable TTRPG character sheets | Go (TinyGo → WASM) |
+| [UnitForge](https://chr-z.github.io/unitforge/) | Offline unit converter — pure C engine compiled to WebAssembly | C → WASM (zig cc) |
 
 Also open-sourced: [Rubethyst Snap](https://github.com/chr-z/rubethyst-snap) —
 yt-dlp/ffmpeg download engine as a library + FastAPI + Celery stack with SSE progress,
