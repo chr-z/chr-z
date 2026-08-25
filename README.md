@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:F97316&height=180&section=header&text=Christian%20Eliel&fontSize=42&fontColor=ffffff&desc=Software%20Engineer%20%C2%B7%20Fullstack%20%26%20Data%20Science&descSize=16&descColor=e8eaf0&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:F97316&height=180&section=header&text=Christian%20Eliel&fontSize=42&fontColor=ffffff&desc=Software%20Engineer%20%C2%B7%20Fullstack%20%2B%20Data%20Science&descSize=16&descColor=e8eaf0&animation=fadeIn" width="100%" />
 
 [![Solaris v2](https://img.shields.io/badge/SOLARIS-v2_shipped-F97316?style=for-the-badge)](https://github.com/chr-z/solaris-av-engine)
 [![10 SaaS no ar](https://img.shields.io/badge/portfolio-10_SaaS_live-7C3AED?style=for-the-badge)](#-portfolio--saas-fleet)
