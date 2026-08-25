@@ -62,6 +62,7 @@ language/stack**, because range is the point.
 | [Tably](https://chr-z.github.io/tably/) | Offline sales ledger for stalls & salons | TypeScript (no framework) |
 | [SheetBound](https://chr-z.github.io/sheetbound/) | Printable TTRPG character sheets | Go (TinyGo → WASM) |
 | [UnitForge](https://chr-z.github.io/unitforge/) | Offline unit converter — pure C engine compiled to WebAssembly | C → WASM (zig cc) |
+| [ZigZip](https://chr-z.github.io/zigzip/) | Offline image squeezer — downscale, grayscale & quantize | Zig → WebAssembly (`zig build-exe`) |
 | [NimNote](https://chr-z.github.io/nimnote/) | Instant-search local notes — search engine written in Nim, compiled to JS | Nim → JavaScript (`nim js`) |
 
 Also open-sourced: [Rubethyst Snap](https://github.com/chr-z/rubethyst-snap) —
