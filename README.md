@@ -49,6 +49,8 @@ Ten production apps. Every single one: mobile-first, offline-capable PWA,
 i18n EN/PT-BR, tested, CI-deployed to GitHub Pages — and **each in a different
 language/stack**, because range is the point.
 
+_Fifteen products shipped and counting — see the fleet below._
+
 | Product | What it does | Stack |
 |---|---|---|
 | [Propostly](https://chr-z.github.io/propostaja/) | Client-ready proposals in minutes | JavaScript (vanilla) |
@@ -65,6 +67,7 @@ language/stack**, because range is the point.
 | [ZigZip](https://chr-z.github.io/zigzip/) | Offline image squeezer — downscale, grayscale & quantize | Zig → WebAssembly (`zig build-exe`) |
 | [NimNote](https://chr-z.github.io/nimnote/) | Instant-search local notes — search engine written in Nim, compiled to JS | Nim → JavaScript (`nim js`) |
 | [PrologPricing](https://chr-z.github.io/prologpricing/) | Declarative pricing & discount rules engine — the .pl IS the engine | Prolog (Trealla → WASM) |
+| [LuaLoop](https://chr-z.github.io/lualoop/) | Pomodoro whose rules are live-editable Lua scripts — real Lua 5.3 VM on WASM | Lua 5.3 → WASM (Fengari) |
 
 Also open-sourced: [Rubethyst Snap](https://github.com/chr-z/rubethyst-snap) —
 yt-dlp/ffmpeg download engine as a library + FastAPI + Celery stack with SSE progress,
@@ -87,6 +90,7 @@ signed delivery URLs and abuse controls.
 ![Elm](https://img.shields.io/badge/elm-%231291DB.svg?style=for-the-badge&logo=elm&logoColor=white)
 ![Clojure](https://img.shields.io/badge/clojurescript-%235881C4.svg?style=for-the-badge&logo=clojure&logoColor=white)
 ![Solid](https://img.shields.io/badge/solidjs-2c4f7c?style=for-the-badge&logo=solid&logoColor=blue)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 **Infra & Data**
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
