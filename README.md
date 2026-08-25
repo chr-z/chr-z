@@ -64,6 +64,7 @@ language/stack**, because range is the point.
 | [UnitForge](https://chr-z.github.io/unitforge/) | Offline unit converter — pure C engine compiled to WebAssembly | C → WASM (zig cc) |
 | [ZigZip](https://chr-z.github.io/zigzip/) | Offline image squeezer — downscale, grayscale & quantize | Zig → WebAssembly (`zig build-exe`) |
 | [NimNote](https://chr-z.github.io/nimnote/) | Instant-search local notes — search engine written in Nim, compiled to JS | Nim → JavaScript (`nim js`) |
+| [PrologPricing](https://chr-z.github.io/prologpricing/) | Declarative pricing & discount rules engine — the .pl IS the engine | Prolog (Trealla → WASM) |
 
 Also open-sourced: [Rubethyst Snap](https://github.com/chr-z/rubethyst-snap) —
 yt-dlp/ffmpeg download engine as a library + FastAPI + Celery stack with SSE progress,
