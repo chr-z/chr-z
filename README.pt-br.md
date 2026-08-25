@@ -69,6 +69,8 @@ _Quinze produtos no ar e contando — frota completa abaixo._
 | [NimNote](https://chr-z.github.io/nimnote/) | Notas locais com busca instantânea — motor de busca escrito em Nim, compilado pra JS | Nim → JavaScript (`nim js`) |
 | [PrologPricing](https://chr-z.github.io/prologpricing/) | Motor declarativo de regras de preço e desconto — o .pl É o motor | Prolog (Trealla → WASM) |
 | [LuaLoop](https://chr-z.github.io/lualoop/) | Pomodoro cujas regras são scripts Lua editáveis — VM Lua 5.3 real em WASM | Lua 5.3 → WASM (Fengari) |
+| [LambdaHabits](https://chr-z.github.io/lambdahabits/) | Tracker de hábitos — motor escrito em PureScript, compilado pra JS puro | PureScript → JavaScript |
+| [LedgerLoom](https://chr-z.github.io/ledgerloom/) | Livro-caixa freelancer — núcleo contábil é PHP 8.4 real rodando no navegador | PHP 8.4 → WASM (php-wasm) |
 
 Também open-source: [Rubethyst Snap](https://github.com/chr-z/rubethyst-snap) —
 motor de download yt-dlp/ffmpeg como biblioteca + FastAPI + Celery, progresso SSE,
