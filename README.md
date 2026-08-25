@@ -68,6 +68,8 @@ _Fifteen products shipped and counting — see the fleet below._
 | [NimNote](https://chr-z.github.io/nimnote/) | Instant-search local notes — search engine written in Nim, compiled to JS | Nim → JavaScript (`nim js`) |
 | [PrologPricing](https://chr-z.github.io/prologpricing/) | Declarative pricing & discount rules engine — the .pl IS the engine | Prolog (Trealla → WASM) |
 | [LuaLoop](https://chr-z.github.io/lualoop/) | Pomodoro whose rules are live-editable Lua scripts — real Lua 5.3 VM on WASM | Lua 5.3 → WASM (Fengari) |
+| [LambdaHabits](https://chr-z.github.io/lambdahabits/) | Habit tracker — engine written in PureScript, compiled to plain JS | PureScript → JavaScript |
+| [LedgerLoom](https://chr-z.github.io/ledgerloom/) | Freelancer ledger — accounting core is real PHP 8.4 running in-browser | PHP 8.4 → WASM (php-wasm) |
 
 Also open-sourced: [Rubethyst Snap](https://github.com/chr-z/rubethyst-snap) —
 yt-dlp/ffmpeg download engine as a library + FastAPI + Celery stack with SSE progress,
