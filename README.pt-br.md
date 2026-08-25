@@ -65,6 +65,7 @@ porque range técnico é o ponto.
 | [UnitForge](https://chr-z.github.io/unitforge/) | Conversor de unidades offline — motor em C puro compilado para WebAssembly | C → WASM (zig cc) |
 | [ZigZip](https://chr-z.github.io/zigzip/) | Espremedor de imagens offline — reduz, cinza e quantiza cores | Zig → WebAssembly (`zig build-exe`) |
 | [NimNote](https://chr-z.github.io/nimnote/) | Notas locais com busca instantânea — motor de busca escrito em Nim, compilado pra JS | Nim → JavaScript (`nim js`) |
+| [PrologPricing](https://chr-z.github.io/prologpricing/) | Motor declarativo de regras de preço e desconto — o .pl É o motor | Prolog (Trealla → WASM) |
 
 Também open-source: [Rubethyst Snap](https://github.com/chr-z/rubethyst-snap) —
 motor de download yt-dlp/ffmpeg como biblioteca + FastAPI + Celery, progresso SSE,
