@@ -49,7 +49,7 @@ Ten production apps. Every single one: mobile-first, offline-capable PWA,
 i18n EN/PT-BR, tested, CI-deployed to GitHub Pages — and **each in a different
 language/stack**, because range is the point.
 
-_Fifteen products shipped and counting — see the fleet below._
+_Sixteen products shipped and counting — see the fleet below._
 
 | Product | What it does | Stack |
 |---|---|---|
@@ -70,6 +70,7 @@ _Fifteen products shipped and counting — see the fleet below._
 | [LuaLoop](https://chr-z.github.io/lualoop/) | Pomodoro whose rules are live-editable Lua scripts — real Lua 5.3 VM on WASM | Lua 5.3 → WASM (Fengari) |
 | [LambdaHabits](https://chr-z.github.io/lambdahabits/) | Habit tracker — engine written in PureScript, compiled to plain JS | PureScript → JavaScript |
 | [LedgerLoom](https://chr-z.github.io/ledgerloom/) | Freelancer ledger — accounting core is real PHP 8.4 running in-browser | PHP 8.4 → WASM (php-wasm) |
+| [MainframeMint](https://chr-z.github.io/mainframemint/) | Mainframe money math — compound, amortization & savings computed by a real GnuCOBOL engine | COBOL (GnuCOBOL 3.1.2) |
 
 Also open-sourced: [Rubethyst Snap](https://github.com/chr-z/rubethyst-snap) —
 yt-dlp/ffmpeg download engine as a library + FastAPI + Celery stack with SSE progress,
