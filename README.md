@@ -71,6 +71,7 @@ _Sixteen products shipped and counting — see the fleet below._
 | [LambdaHabits](https://chr-z.github.io/lambdahabits/) | Habit tracker — engine written in PureScript, compiled to plain JS | PureScript → JavaScript |
 | [LedgerLoom](https://chr-z.github.io/ledgerloom/) | Freelancer ledger — accounting core is real PHP 8.4 running in-browser | PHP 8.4 → WASM (php-wasm) |
 | [MainframeMint](https://chr-z.github.io/mainframemint/) | Mainframe money math — compound, amortization & savings computed by a real GnuCOBOL engine | COBOL (GnuCOBOL 3.1.2) |
+| [OCamlCalc](https://chr-z.github.io/ocamlcalc/) | Exact financial calculator - loans, savings & compound interest by an OCaml engine compiled to JS, zero floats | OCaml -> JavaScript (js_of_ocaml) |
 
 Also open-sourced: [Rubethyst Snap](https://github.com/chr-z/rubethyst-snap) —
 yt-dlp/ffmpeg download engine as a library + FastAPI + Celery stack with SSE progress,
