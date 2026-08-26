@@ -72,6 +72,7 @@ _Dezesseis produtos no ar e contando — frota completa abaixo._
 | [LambdaHabits](https://chr-z.github.io/lambdahabits/) | Tracker de hábitos — motor escrito em PureScript, compilado pra JS puro | PureScript → JavaScript |
 | [LedgerLoom](https://chr-z.github.io/ledgerloom/) | Livro-caixa freelancer — núcleo contábil é PHP 8.4 real rodando no navegador | PHP 8.4 → WASM (php-wasm) |
 | [MainframeMint](https://chr-z.github.io/mainframemint/) | Matemática financeira nível mainframe — compostos, amortização e poupança num motor GnuCOBOL real | COBOL (GnuCOBOL 3.1.2) |
+| [OCamlCalc](https://chr-z.github.io/ocamlcalc/) | Calculadora financeira exata — empréstimos, poupança e juros compostos por um motor OCaml compilado pra JS, zero ponto flutuante | OCaml → JavaScript (js_of_ocaml) |
 
 Também open-source: [Rubethyst Snap](https://github.com/chr-z/rubethyst-snap) —
 motor de download yt-dlp/ffmpeg como biblioteca + FastAPI + Celery, progresso SSE,
