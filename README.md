@@ -72,6 +72,8 @@ _Sixteen products shipped and counting — see the fleet below._
 | [LedgerLoom](https://chr-z.github.io/ledgerloom/) | Freelancer ledger — accounting core is real PHP 8.4 running in-browser | PHP 8.4 → WASM (php-wasm) |
 | [MainframeMint](https://chr-z.github.io/mainframemint/) | Mainframe money math — compound, amortization & savings computed by a real GnuCOBOL engine | COBOL (GnuCOBOL 3.1.2) |
 | [OCamlCalc](https://chr-z.github.io/ocamlcalc/) | Exact financial calculator - loans, savings & compound interest by an OCaml engine compiled to JS, zero floats | OCaml -> JavaScript (js_of_ocaml) |
+| [FortranFlow](https://chr-z.github.io/fortranflow/) | Scientific & statistics calculator — every number computed by a real Fortran 90 engine compiled to WASM | Fortran 90 → WebAssembly (LFortran) |
+| [ElixirQueue](https://chr-z.github.io/elixirqueue/) | Deterministic task-tick scheduler — the core is real Elixir on the BEAM, proven equal to the offline mirror by CI goldens | Elixir (BEAM core → JS mirror) |
 
 Also open-sourced: [Rubethyst Snap](https://github.com/chr-z/rubethyst-snap) —
 yt-dlp/ffmpeg download engine as a library + FastAPI + Celery stack with SSE progress,
